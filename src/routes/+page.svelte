@@ -30,19 +30,18 @@
 		</div>
 	</div>
 
-	 <!-- Footer with email subscription form -->
-	 <footer class="w-full py-6 mt-10 bg-gray-200">
-        <div class="max-w-screen-xl mx-auto px-4">
-            <div class="flex justify-center">
-                <form class="w-full max-w-lg">
-                    <div class="flex items-center py-2">
-                        <input class="appearance-none bg-transparent border-none w-full text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none" type="email" placeholder="Enter your email" aria-label="Email address">
-                        <button class="flex-shrink-0 bg-teal-500 hover:bg-teal-700 border-teal-500 hover:border-teal-700 text-sm border-4 text-white py-1 px-2 rounded" type="button">
-                            Subscribe
-                        </button>
-                    </div>
-                </form>
-            </div>
+	 <!-- Footer with Email Subscription Form -->
+	 <div class="w-full mt-10 p-4">
+        <div class="max-w-3xl mx-auto text-center">
+            <h3 class="font-semibold text-lg">Subscribe to Our Newsletter</h3>
+            <p class="text-gray-300">Get the latest updates about the game.</p>
+            <form class="mt-4 flex justify-center">
+				<label class="label">
+					<input class="input p-2" type="text" placeholder="Enter your email" />
+					<button type="button" class="btn variant-filled">Add Email To Newsletter</button>
+				</label>
+			
+            </form>
         </div>
-    </footer>
+    </div>
 </div>
