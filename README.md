@@ -1,20 +1,12 @@
-# create-svelte
+# Pooh Commits Industrial Homicide (pooh-cis-app)
+
+This project was created for [my friend Gus](https://www.linkedin.com/in/gus-kirkpatrick-677949238/ "my friend Gus") for his Level Design Project called **Pooh Commits Industrial Homicide**. This project allowed him to send an elevator pitch to his audience.
+
+[Pooh Commits Industrial Homicide Site](https://pooh-cis.vercel.app "Pooh Commits Industrial Homicide Site")
+
+## Hosting this Project
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
-
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
